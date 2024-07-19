@@ -1,0 +1,27 @@
+# Cache & temp
+__pycache__
+.cache
+.pub_blog_temp
+.pub_min_cache
+.ruff_cache
+.pytest_cache
+.DS_Store
+
+# Coverage
+.coverage
+htmlcov
+
+# Project specific
+docs
+*/.obsidian/workspace.json
+*/.obsidian/plugins/obsidian-languagetool-plugin
+
+# Logs
+*_mkdocs_build.log
+*_mkdocs_debug.zip
+
+# Other
+.env
+.idea
+.venv
+sandbox*

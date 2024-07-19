@@ -1,0 +1,23 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "docs/images",
+  "userIgnoreFilters": [
+    "__pycache__/",
+    "_templates/"
+  ],
+  "useMarkdownLinks": true,
+  "spellcheckDictionary": [
+    "framework",
+    "REST",
+    "roger",
+    "IT",
+    "YAML"
+  ],
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "livePreview": false
+}

@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+
+<!-- Content -->
+{% block content %}
+  {% if "material/tags" in config.plugins %}
+    {% include "partial/tags.html" %}
+  {% endif %}
+  {% include "partials/actions.html" %}
+  {% if page.meta %}
+  <div class="post-extra">
+    {% if page.meta.date %}
+      <div class="col">
+          <p class="post-date">{{ page.meta.date.strftime('%Y.%m.%d') }}</p>
+      </div>
+    {% endif %}
+    {% if page.meta.tags %}
+      <div class="col">
+      {% for tag in page.meta.tags %}
+        {% for file in pages %}
+          {% if file.page.title == tag %}
+          <a href="{{ config.site_url }}{{ file.page.url }}">#{{ tag }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+  <h1>{{ page.meta.title | d(config.site_name, true)}}</h1>
+  {% endif %}
+  {{ page.content }}
+  {% if page.meta and (
+    page.meta.git_revision_date_localized or
+    page.meta.revision_date
+  ) %}
+    {% include "partials/source-file.html" %}
+  {% endif %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
+  <div class="tb-ext md-typeset">
+    <hr />
+    {% include "slonzaczqa/content_footer.html" %}
+  </div>
+{% endblock %}
+
+{% block site_nav %}
+  <!-- Navigation -->
+  {% if nav %}
+    {% if page.meta and page.meta.hide %}
+      {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+    {% endif %}
+    <div
+      class="md-sidebar md-sidebar--primary"
+      data-md-component="sidebar"
+      data-md-type="navigation"
+      {{ hidden }}
+    >
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/nav.html" %}
+        </div>
+        <div class="md-sidebar__inner">
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+  <!-- Table of contents -->
+  {% if "toc.integrate" not in features %}
+    {% if page.meta and page.meta.hide %}
+      {% set hidden = "hidden" if "toc" in page.meta.hide %}
+    {% endif %}
+    <div
+      class="md-sidebar md-sidebar--secondary"
+      data-md-component="sidebar"
+      data-md-type="toc"
+      {{ hidden }}
+    >
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/toc.html" %}
+        </div>
+        <div class="md-sidebar__inner">
+          {% include "slonzaczqa/newsletter_sidebar.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endblock %}
