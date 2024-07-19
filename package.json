@@ -1,0 +1,14 @@
+{
+  "name": "slonzaczqa",
+  "version": "0.1.0",
+  "description": "ŚlonzaczQA",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"No tests required\" && exit 0"
+  },
+  "keywords": [],
+  "author": "maciej@testerembyc.pl",
+  "license": "BSD-3-Clause"
+}
