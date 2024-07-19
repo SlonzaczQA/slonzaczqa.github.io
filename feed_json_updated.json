@@ -1,0 +1,15 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "\u015alonzaczQA",
+    "home_page_url": "https://slonzaczqa.pl/",
+    "feed_url": "https://slonzaczqa.pl/feed_json_updated.json",
+    "description": "\u015alonzaczQA",
+    "icon": null,
+    "authors": [
+        {
+            "name": "\u015alonzaczQA"
+        }
+    ],
+    "language": "pl",
+    "items": []
+}
