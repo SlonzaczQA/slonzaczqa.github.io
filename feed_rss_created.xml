@@ -3,7 +3,7 @@
   <channel>
     
     <title>ŚlonzaczQA</title>
-    <description>ŚlonzaczQA</description>
+    <description>ŚlonzaczQA - meetup na Śląsku dla ludzi związanych z szeroko rozumianą jakością oprogramowania.</description>
     <link>https://slonzaczqa.pl/</link>
     <atom:link href="https://slonzaczqa.pl/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
@@ -13,8 +13,8 @@
     <language>pl</language>
 
     
-    <pubDate>Wed, 14 Aug 2024 16:19:42 -0000</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2024 16:19:42 -0000</lastBuildDate>
+    <pubDate>Wed, 14 Aug 2024 21:44:05 -0000</pubDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:44:05 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -24,6 +24,41 @@
     
 
     
+    
+    <item>
+      <title>index</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;&amp;lt;!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2023-2024 Maciej &#39;maQ&#39; Kusz &lt;a href=&#34;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#109;&amp;#97;&amp;#99;&amp;#105;&amp;#101;&amp;#106;&amp;#46;&amp;#107;&amp;#117;&amp;#115;&amp;#122;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&#34;&gt;&amp;#109;&amp;#97;&amp;#99;&amp;#105;&amp;#101;&amp;#106;&amp;#46;&amp;#107;&amp;#117;&amp;#115;&amp;#122;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;
+  ~
+  ~ Permission is hereby granted, free of charge, to any p...&lt;/p&gt;</description>
+      <link>https://slonzaczqa.pl/news/?utm_source=slonzaczqa.pl&amp;utm_medium=RSS&amp;utm_campaign=feed</link>
+      <pubDate>Wed, 14 Aug 2024 21:44:05 +0000</pubDate>
+      <source url="https://slonzaczqa.pl/feed_rss_created.xml">ŚlonzaczQA</source>
+      
+      <guid isPermaLink="true">https://slonzaczqa.pl/news/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Witaj</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;Chwilowo nie było czasu, aby uzupełnić tę sekcję, ale na pewno pojawią się tutaj zapowiedzi nowych wydarzeń oraz podsumowania tych, które już się odbyły. Sta...&lt;/p&gt;</description>
+      <link>https://slonzaczqa.pl/news/witaj/?utm_source=slonzaczqa.pl&amp;utm_medium=RSS&amp;utm_campaign=feed</link>
+      <pubDate>Sat, 10 Aug 2024 16:26:11 +0200</pubDate>
+      <source url="https://slonzaczqa.pl/feed_rss_created.xml">ŚlonzaczQA</source>
+      
+      <guid isPermaLink="true">https://slonzaczqa.pl/news/witaj/</guid>
+      
+    </item>
     
   </channel>
 </rss>

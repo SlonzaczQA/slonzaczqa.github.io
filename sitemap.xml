@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://slonzaczqa.pl/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://slonzaczqa.pl/team/</loc>
-         <lastmod>2024-07-18</lastmod>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slonzaczqa.pl/news/witaj/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://slonzaczqa.pl/pages/polityka-prywatnosci/</loc>
-         <lastmod>2023-09-18</lastmod>
+         <lastmod>2024-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://slonzaczqa.pl/pages/regulamin/</loc>
-         <lastmod>2023-05-25</lastmod>
+         <lastmod>2024-08-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slonzaczqa.pl/news/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slonzaczqa.pl/news/archive/2024/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
