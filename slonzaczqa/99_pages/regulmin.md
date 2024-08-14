@@ -2,10 +2,9 @@
 title: Regulamin
 slug: regulamin
 description: 
-date: 2019-07-17 16:26:44
-update: 2023-05-25 00:03:29
+date: 2024-08-10 14:07:30
+update: 2024-08-10 14:07:30
 publish: hidden
-template: page.html
 ---
 
 Po co w ogóle ten regulamin? Ano jest on głównie dla Ciebie i innych osób czytających mojego bloga. Chciał bym, aby nasza interakcja dawała i Tobie i mnie radość oraz, abyśmy mogli tą interakcję przeprowadzać w kulturalnej atmosferze. Dlatego proszę Cię o zapoznanie się z poniższym regulaminem i jego przestrzeganie.

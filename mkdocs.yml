@@ -1,8 +1,8 @@
 site_name: ŚlonzaczQA
 site_url: https://slonzaczqa.pl
-dev_addr: "127.0.0.1:8123"
+dev_addr: "127.0.0.1:8765"
 site_author: ŚlonzaczQA
-site_description: ŚlonzaczQA
+site_description: ŚlonzaczQA - meetup na Śląsku dla ludzi związanych z szeroko rozumianą jakością oprogramowania.
 copyright: >
   &copy; 2019-2024 ŚlonzaczQA
 
@@ -23,8 +23,8 @@ extra:
       link: https://www.youtube.com/@slonzaczqa
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/slonzaczqa
-#    - icon: material/email-open
-#      link: mailto:maciej@testerembyc.pl
+    - icon: material/email-open
+      link: mailto:kontakt@slonzaczqa.pl
   consent:
     title: Lubisz ciasteczka?
     description: >-
@@ -130,9 +130,21 @@ plugins:
 #        show_code_link: true
   - search
   - pub-blog:
-      blog_dir: 02_news
-      slug: news
+      blog_dir: 02_meetup
+      slug: meetup
       lang: pl
+      translation:
+        blog_page_title: Meetup
+        blog_navigation_name: Meetup
+        recent_blog_posts_navigation_name: Najnowsze spotkania
+        archive_page_title: Archiwum
+        archive_navigation_name: Archiwum
+        categories_page_title: Kategoria
+        categories_navigation_name: Kategorie
+        tags_page_title: Tag
+        tags_navigation_name: Tagi
+        newer_posts: Nowsze spotkania
+        older_posts: Starsze spotkania
   - rss:
       length: 99
       url_parameters:
@@ -140,7 +152,7 @@ plugins:
         utm_medium: RSS
         utm_campaign: feed
       pretty_print: true
-      match_path: 02_news/[^_][^/]*.md
+      match_path: 02_meetup/[^_][^/]*.md
       date_from_meta:
         as_creation: date
         as_update: update

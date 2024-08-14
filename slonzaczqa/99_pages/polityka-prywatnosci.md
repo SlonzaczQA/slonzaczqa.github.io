@@ -2,10 +2,9 @@
 title: Polityka prywatności i plików cookies
 slug: polityka-prywatnosci
 description: Polityka prywatności strony testerembyc.pl
-date: 2019-07-12 16:07:57
-update: 2023-09-18 10:40:24
+date: 2024-08-10 14:07:39
+update: 2024-08-10 14:07:39
 publish: hidden
-template: page.html
 ---
 
 Skoro trafiłeś do tej zakładki, to znaczy, że ważne jest dla Ciebie bezpieczeństwo Twoich danych w Sieci. Wiedz, że dbamy o odpowiednie traktowanie Twoich danych osobowych.
@@ -16,7 +15,7 @@ Jeżeli podstawowe informacje okażą się dla Ciebie niewystarczające, poniże
 
 ## I. Podstawowe informacje
 
-1. Administratorem danych osobowych na stronie [slonzaczqa.pl](https://testerembyc.pl/) jestem firma: **Red Bug Maciej Kusz**, której Maciej Kusz, jestem właścicielem. Możesz się ze mną skontaktować w każdej chwili z wykorzystaniem adresu e-mail: maciej@testerembyc.pl.
+1. Administratorem danych osobowych na stronie [slonzaczqa.pl](https://testerembyc.pl/) jestem firma: **Red Bug Maciej Kusz**, której Maciej Kusz, jestem właścicielem. Możesz się ze mną skontaktować w każdej chwili z wykorzystaniem adresu e-mail: maciej@testerembyc.pl lub poprzez kontakt@slonzaczqa.pl.
 
 2. Pamiętaj, że podanie danych osobowych, a także zgoda na ich przetwarzanie są całkowicie dobrowolne. Wszelkie przekazane mi dane osobowe są przetwarzane wyłącznie w zakresie i w celu, na jakim wyraziłeś zgodę.
 

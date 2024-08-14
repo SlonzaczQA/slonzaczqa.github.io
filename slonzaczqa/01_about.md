@@ -3,18 +3,15 @@ title: O nas
 slug: .
 description: 
 date: 2024-07-18 23:05:50
-update: 2024-07-19 15:34:52
+update: 2024-08-10 17:18:54
 tags: []
+template: no_date.html
 publish: true
 image: 
 categories: []
+hide: [navigation]
 ---
 
-<figure markdown>
-![]()
-<figcaption markdown>
-Wykorzystano zdjęcie autorstwa []() z [Pexels](https://www.pexels.com/)
-</figcaption>
-</figure>
+**ŚlonzaczQA** to Śląska inicjatywa skierowana do wszystkich związanych z branżą IT, którzy zainteresowani są testowaniem, jakością oprogramowania i wszystkimi tematami związanymi z jego wytwarzaniem i zarządzaniem. Tworzona przez [pasjonatów](03_team.md) ze wsparciem znakomitych gości z całego kraju.
 
-<!-- more -->
+Pamiętaj, że spotykamy się, aby w przyjaznej atmosferze porozmawiać, wymienić się doświadczeniami oraz przede wszystkim, aby poznać się wzajemnie i przy okazji miło spędzić czas. Tu nikt nikogo nie krytykuje ani nie ocenia, więc nawet jeśli nie jesteś do końca pewien/pewna, czy pasuje do reszty towarzystwa, przyjdź na najbliższy meetup i przekonaj się na własnej skórze.
