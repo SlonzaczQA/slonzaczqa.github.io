@@ -23,3 +23,5 @@ Wicherski: "i jego droga do..."
 14 - 18.10.2023 Siemens Katowice - Sebastian Stróż - "Cypress - co z tym asynciem i zrównolegleniem? Czyli jak nie zgubić się na drodze automatyzacji frontendu." Maciej Kusz - "Manual tests + git + Allure"
 15 - 19.03.2024 Rockwell Automation Rafał Rymek - Changing Quality Thinking, Jakub Rosiński - "Od tyłu też jest fajnie"
 16 - 9.05.2024 TravCorp Poland - Pull Request Environments jako Game Changer dla QA, Magdalena Listwan i Piotr Krawczyk, 7 grzechów głównych Playwright, Przemysław Barański i Krzysztof Kijas
+17 - 13.11.2024 TravCorp Poland - 
+18 - 30.01.2025 Sii Poland - 

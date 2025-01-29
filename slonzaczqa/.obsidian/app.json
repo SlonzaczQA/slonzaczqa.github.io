@@ -9,7 +9,7 @@
     "__pycache__/",
     "_templates/"
   ],
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "spellcheckDictionary": [
     "framework",
     "REST",

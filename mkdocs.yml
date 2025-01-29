@@ -162,5 +162,10 @@ plugins:
   - pub-social:
       og:
         locale: pl_PL
-  - pub-meta
+  - pub-meta:
+      publish:
+        file_warn_on_missing: false
+      title:
+        warn_on_missing_header: false
+        warn_on_missing_meta: false
   - pub-minifier
