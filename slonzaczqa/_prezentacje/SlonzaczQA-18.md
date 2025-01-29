@@ -20,7 +20,7 @@ width: 1366
 - **6 lutego** - Kolektyw Gliwice
 - **20 lutego** - KraQA
 - **12 marca** - BiałQA
-- **4-5 kwitnia** - Warszawskie Dni Informatyki (CFP trwa)
+- **4-5 kwitnia** - Warszawskie Dni Informatyki (CFP do 3 lutego)
 - **7-8 kwietnia** - TADA, czyli byłe ConSelenium (CFP do 2 lutego)
 - **25 maja** - test:fest (CFP do 28 lutego)
 - **29-30 maja** - Automatyzacja Testowania w praktyce
