@@ -1,6 +1,6 @@
 ---
 date: 2025-01-29 11:08:19
-update: 2025-01-29 12:03:11
+update: 2025-01-29 14:03:17
 tags:
   - #prezentacja
 publish: false
@@ -20,8 +20,9 @@ width: 1366
 - **6 lutego** - Kolektyw Gliwice
 - **20 lutego** - KraQA
 - **7-8 kwietnia** - TADA, czyli byłe ConSelenium (CFP do 2 lutego)
+- **25 maja** - test:fest (CFP do 28 lutego)
 - **29-30 maja** - Automatyzacja Testowania w praktyce
-- **5-7 listopada** - TestWarez w Wiśle (CFP będzie ogłoszone "na dniach")
+- **5-7 listopada** - TestWarez w Wiśle (CFP od 14 lutego)
 
 ---
 
@@ -29,7 +30,6 @@ width: 1366
 
 - reaktywacja test:fest meetup
 - reaktywacja BiałQA
-- konferencja test:fest?
 
 ---
 
