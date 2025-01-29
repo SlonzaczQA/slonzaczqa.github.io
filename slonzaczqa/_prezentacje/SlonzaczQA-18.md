@@ -1,9 +1,10 @@
 ---
 date: 2025-01-29 11:08:19
-update: 2025-01-29 14:03:17
+update: 2025-01-29 16:31:30
 tags:
   - #prezentacja
 publish: false
+bg: black
 height: 768
 progress: true
 slideNumber: true
