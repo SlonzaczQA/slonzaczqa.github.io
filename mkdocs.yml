@@ -9,8 +9,8 @@ copyright: >
 docs_dir: slonzaczqa
 site_dir: docs
 
-use_directory_urls: true
-#strict: true
+# use_directory_urls: true
+strict: true
 
 extra:
   homepage: https://slonzaczqa.pl
@@ -163,6 +163,8 @@ plugins:
       og:
         locale: pl_PL
   - pub-meta:
+      overview:
+        default: false
       publish:
         file_warn_on_missing: false
       title:
