@@ -29,7 +29,7 @@ Prywatnie mąż, ojciec oraz zapalony majsterkowicz (DIY).
 <div class="grid" markdown>
 ![[images/team/DamianBrzeczek.jpg|300]]
 
-Pracuje w branży od ponad 10 lat, aktualnie jako Senior Test Development Engineer w StoneX. Wiceprzewodniczący Komisji Rewizyjnej w Stowarzyszeniu Jakości Systemów Informatycznych. Certyfikowany tester i laureat TestingCup. Prelegent na różnych konferencjach oraz współorganizator TestWarez. Brał udział w tłumaczeniach sylabusów ISTQB TAE oraz TTA. Pasjonat programowania i testów automatycznych. Swój pierwszy program napisał będąc w gimnazjum. Związany od samego początku swojej kariery z językiem programowania C#. W wolnym czasie lubi pobiegać i zmęczyć się na siłowni.
+Pracuje w branży od ponad 10 lat, aktualnie jako Senior Staff Engineer w StoneX. Wiceprzewodniczący Komisji Rewizyjnej w Stowarzyszeniu Jakości Systemów Informatycznych. Certyfikowany tester i laureat TestingCup. Prelegent na różnych konferencjach oraz współorganizator TestWarez. Brał udział w tłumaczeniach sylabusów ISTQB TAE oraz TTA. Pasjonat programowania i testów automatycznych. Swój pierwszy program napisał będąc w gimnazjum. Związany od samego początku swojej kariery z językiem programowania C#. W wolnym czasie lubi pobiegać i zmęczyć się na siłowni.
 </div>
 
 
