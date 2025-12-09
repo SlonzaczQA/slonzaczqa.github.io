@@ -12,13 +12,13 @@ theme: blood
 width: 1366
 ---
 
-![[../images/SQA/SQ21-social.jpg]]
+![](../images/SQA/SQ21-social.jpg)
 
 ---
 
 ### Najbliższe wydarzenia
 
-![[../images/inne/Marry Testers.png]]
+![](../images/inne/MarryTesters.png)
 
 ---
 
@@ -36,8 +36,8 @@ width: 1366
 
 ---
 
-![[../images/SQA/SQ21-Sonia Łukaszewicz - prelegent.jpg]]
+![](../images/SQA/SQ21-SoniaLukaszewicz.jpg)
 
 ---
 
-![[../images/SQA/SQ21-Emilia Lendzion - prelegent.jpg]]
+![](../images/SQA/SQ21-EmiliaLendzion.jpg)
